@@ -17,7 +17,7 @@
 利用 mitm 重写来去广告。
 
 ```text
-https://raw.githubusercontent.com/cat0x1f/ios_rule_script/main/script/ad-mitm/ad-mitm.sgmodule
+https://raw.githubusercontent.com/cat0x1f/BlockAD/main/script/ad-mitm/ad-mitm.sgmodule
 ```
 
 ### bilibili
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/cat0x1f/ios_rule_script/main/script/ad-mitm/ad
 去除 B 站广告。
 
 ```text
-https://raw.githubusercontent.com/cat0x1f/ios_rule_script/main/script/bilibili/bilibili_plus.sgmodule
+https://raw.githubusercontent.com/cat0x1f/BlockAD/main/script/bilibili/bilibili_plus.sgmodule
 ```
 
 ### famijia
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/cat0x1f/ios_rule_script/main/script/bilibili/b
 米家自动签到。
 
 ```text
-https://raw.githubusercontent.com/cat0x1f/ios_rule_script/main/script/famijia/famijia_checkin.sgmodule
+https://raw.githubusercontent.com/cat0x1f/BlockAD/main/script/famijia/famijia_checkin.sgmodule
 ```
 
 ### noad
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/cat0x1f/ios_rule_script/main/script/famijia/fa
 广告屏蔽。
 
 ```text
-https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/noad/noad.sgmodule
+https://raw.githubusercontent.com/cat0x1f/BlockAD/master/script/noad/noad.sgmodule
 ```
 
 ### startup
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/noad/noa
 去除开屏广告。
 
 ```text
-https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/startup/startup.sgmodule
+https://raw.githubusercontent.com/cat0x1f/BlockAD/master/script/startup/startup.sgmodule
 ```
 
 ### youtube-noad
@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/startup/
 去除 Youtube 广告。
 
 ```text
-https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/youtube-noad/youtube-noad.sgmodule
+https://raw.githubusercontent.com/cat0x1f/BlockAD/master/script/youtube-noad/youtube-noad.sgmodule
 ```
 
 ### youtube-video-ad
@@ -65,7 +65,7 @@ https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/youtube-
 去除 Youtube 视频广告
 
 ```text
-https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/youtube-video-ad/youtube-video-ad.sgmodule
+https://raw.githubusercontent.com/cat0x1f/BlockAD/master/script/youtube-video-ad/youtube-video-ad.sgmodule
 ```
 
 ### zhihu
@@ -73,5 +73,13 @@ https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/youtube-
 去除知乎广告。
 
 ```text
-https://raw.githubusercontent.com/cat0x1f/ios_rule_script/master/script/zhihu/zhihu_plus.sgmodule
+https://raw.githubusercontent.com/cat0x1f/BlockAD/master/script/zhihu/zhihu_plus.sgmodule
+```
+
+### startup2
+
+去开屏广告。
+
+```text
+https://raw.githubusercontent.com/cat0x1f/BlockAD/master/script/startup2/startup2.sgmodule
 ```
